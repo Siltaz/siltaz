@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+
+- 🔭 Full Stack Developer
+- 📫 How to reach me: siltaz@pm.me
 
 <!--
 **Siltaz/siltaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
